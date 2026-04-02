@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://fontmeme.com/permalink/260402/c23b40b0.png" />
+  <img src="https://fontmeme.com/permalink/260402/c23b40b0.png" width="400"/>
 </div>
-
 
 <h3 align="center">
   CS Undergrad @ IIIT Delhi · Open Source Contributor · GSoC 2026 Applicant
