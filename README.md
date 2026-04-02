@@ -10,7 +10,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔬 **Undergraduate Researcher** — AI Systems Platform, IIIT Delhi (under Dr. Manohar Kumar)
+- 🔬 **Undergraduate Researcher** — AI Systems Platform, IIIT Delhi.
 - 🌱 **GSoC 2026 Applicant** — Redesigning PEcAn's Benchmarking Pipeline (R · ggplot2 · testthat)
 - 🏆 **Top 5%** Adobe India Hackathon 2025 (4,000 / 80,000 teams)
 - 🤝 **Open Source Contributor** — prometheus-operator, PEcAn (2 merged PRs)
@@ -62,7 +62,7 @@
 | 🥇 Adobe India Hackathon 2025 | Top 5% — 4,000 / 80,000 teams |
 | 🌍 GSoC 2026 | PEcAn Benchmarking Pipeline (R) |
 | 🔀 prometheus-operator | Open source contribution — PR #8353 |
-| 🔬 Research | AI misuse data pipeline @ IIIT Delhi |
+| 🔬 Research @ IIIT Delhi |
 | 🚀 Indian Space Science Olympiad | Qualified Stage 1 (Top 10% nationally) |
 
 ---
