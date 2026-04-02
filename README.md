@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anshul%20Jain&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
+  <img src="https://fontmeme.com/permalink/260402/a5a55100.png" />
 </div>
 
 <h3 align="center">
