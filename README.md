@@ -6,10 +6,6 @@
   CS Undergrad @ IIIT Delhi · Open Source Contributor · GSoC 2026 Applicant
 </h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshul23102&color=blueviolet&style=flat-square" />
-</div>
-
 ---
 
 ### 🙋‍♂️ About Me
@@ -27,27 +23,35 @@
 
 **Programming Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,r,js,ts)](https://skillicons.dev)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,redux,tailwind,styledcomponents,flutter,figma)](https://skillicons.dev)
 
-**Backend & Tools**
+**Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgresql,redis,firebase)](https://skillicons.dev)
+
+**DevOps & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,gradle)](https://skillicons.dev)
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech Stack | Team |
+|---|---|---|---|
+| 🧠 **[MindSync](https://github.com/anshul23102/MindSync)** | Screen time & focus management app — usage analytics, distraction blocking, cross-device sync, customizable focus sessions | Flutter · Dart · Firebase | Team of 3 |
+| 🚂 **[Railway Ticket Booking System](https://github.com/anshul23102/Railway-Ticket-Booking-System)** | Real-time web-based railway booking with optimized SQL queries, secure payments, and admin controls for trains & routes | PHP · MySQL · HTML | Team of 2 |
+| 🐦 **[Angry Birds](https://github.com/anshul23102/AngryBirdGUI)** | 3-level Angry Birds game with OOP design patterns, serialization for saves, JUnit testing, and static-to-dynamic GUI | Java · JavaFX · libGDX · Gradle | Team of 2 |
+| 🍔 **[ByteMe](https://github.com/anshul23102/ByteMe)** | Enhanced course registration system with feedback, TA roles & exception handling + upgraded food ordering GUI with file handling | Java · IntelliJ · JUnit | Solo |
+| 🎓 **[Course Registration System](https://github.com/anshul23102/CourseRegistrationSystem)** | Terminal-based university course registration system demonstrating OOP — encapsulation, inheritance, polymorphism, abstraction | Java · Gradle · Android CI | Solo |
+| 📄 **[Adobe 1A — PDF Outline Extractor](https://github.com/anshul23102/Adobe_1A)** | Rule-based PDF outline extractor detecting titles, H1/H2/H3 headings & page numbers via font clustering & heuristic merging | Python · PyMuPDF · scikit-learn | Team |
+| 🤖 **[Adobe 1B — Persona Document Intelligence](https://github.com/anshul23102/Adobe_1B)** | Extracts & prioritizes PDF sections based on user persona and job-to-be-done. Offline, CPU-only, <60s processing | Python · PyMuPDF | Team |
+| 💙 **[SahaYan — Donation App](https://www.figma.com)** | User-centered design project — requirement gathering, persona creation, design iterations & user testing | Figma | Team of 3 |
+| 🌐 **[Portfolio Website](https://anshulportfolio-tau.vercel.app)** | Animated personal portfolio with smooth page transitions, particle backgrounds & multi-page routing | React 18 · Framer Motion · Styled Components | Solo |
 
 ---
 
@@ -55,10 +59,11 @@
 
 | | |
 |---|---|
-| 🥇 Adobe India Hackathon | Top 5% — 4,000 / 80,000 teams |
-| 🌍 GSoC 2026 | PEcAn Benchmarking Pipeline |
-| 🔀 prometheus-operator | Contributed httpHeaders support (PR #8353) |
+| 🥇 Adobe India Hackathon 2025 | Top 5% — 4,000 / 80,000 teams |
+| 🌍 GSoC 2026 | PEcAn Benchmarking Pipeline (R) |
+| 🔀 prometheus-operator | Open source contribution — PR #8353 |
 | 🔬 Research | AI misuse data pipeline @ IIIT Delhi |
+| 🚀 Indian Space Science Olympiad | Qualified Stage 1 (Top 10% nationally) |
 
 ---
 
@@ -79,7 +84,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-jain-ajx17)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anshul-jain-ajx17)
+
+</div>
+
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anshulportfolio-tau.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshul23102@iiitd.ac.in)
 
