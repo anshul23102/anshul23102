@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://fontmeme.com/permalink/260402/c23b40b0.png" width="500"/>
+  <img src="https://fontmeme.com/permalink/260402/c23b40b0.png" width="550"/>
 </div>
 
 <h3 align="center">
