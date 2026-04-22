@@ -43,6 +43,9 @@
 
 | Project | Description | Tech Stack | Team |
 |---|---|---|---|
+| 💰 **[CashClock](https://github.com/anshul23102/cashclock)** | Full-stack AI financial dashboard for Indian SMEs — Holt-Winters forecasting & Claude AI for cash flow prediction and loan modelling | Python · JavaScript · CSS · Claude AI | Solo |
+| 🛡️ **[BreachBridge](https://github.com/anshul23102/BreachBridge)** | Automated DPDP Act 2023 compliance engine — auto-classifies data breaches, generates PDF reports for DPBI, sends email alerts, and tracks 72-hour compliance countdown | Python · JavaScript · CSS | Solo |
+| 🤖 **[AI Incident DB — India](https://anshul23102.github.io/ai-incident-db)** | Interactive state-wise database documenting AI-related harm incidents across India (2021–2025) — deepfakes, fraud, voice cloning, electoral manipulation, with D3.js map visualisations | HTML · JavaScript · D3.js | Solo |
 | 🧠 **[MindSync](https://github.com/anshul23102/MindSync)** | Screen time & focus management app — usage analytics, distraction blocking, cross-device sync, customizable focus sessions | Flutter · Dart · Firebase | Team of 3 |
 | 🚂 **[Railway Ticket Booking System](https://github.com/anshul23102/Railway-Ticket-Booking-System)** | Real-time web-based railway booking with optimized SQL queries, secure payments, and admin controls for trains & routes | PHP · MySQL · HTML | Team of 2 |
 | 🐦 **[Angry Birds](https://github.com/anshul23102/AngryBirdGUI)** | 3-level Angry Birds game with OOP design patterns, serialization for saves, JUnit testing, and static-to-dynamic GUI | Java · JavaFX · libGDX · Gradle | Team of 2 |
