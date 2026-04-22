@@ -14,6 +14,7 @@
 - 🌱 **GSoC 2026 Applicant** — Redesigning PEcAn's Benchmarking Pipeline (R · ggplot2 · testthat)
 - 🏆 **Top 5%** Adobe India Hackathon 2025 (4,000 / 80,000 teams)
 - 🤝 **Open Source Contributor** — prometheus-operator, PEcAn (2 merged PRs)
+- 📊 **B.Tech Project** — AI Incident Database India: mapping AI-related harm across 28 states (2021–2025)
 - 💻 Currently building: modular benchmarking framework for ecological model validation
 - 📫 Reach me at: **anshul23102@iiitd.ac.in**
 
@@ -27,11 +28,11 @@
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,redux,tailwind,styledcomponents,flutter,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,redux,tailwind,styledcomponents,flutter,figma,vite)](https://skillicons.dev)
 
 **Backend & Database**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,postgresql,redis,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,flask,mysql,sqlite,mongodb,postgresql,redis,firebase)](https://skillicons.dev)
 
 **DevOps & Tools**
 
@@ -43,8 +44,8 @@
 
 | Project | Description | Tech Stack | Team |
 |---|---|---|---|
-| 💰 **[CashClock](https://github.com/anshul23102/cashclock)** | Full-stack AI financial dashboard for Indian SMEs — Holt-Winters forecasting & Claude AI for cash flow prediction and loan modelling | Python · JavaScript · CSS · Claude AI | Solo |
-| 🛡️ **[BreachBridge](https://github.com/anshul23102/BreachBridge)** | Automated DPDP Act 2023 compliance engine — auto-classifies data breaches, generates PDF reports for DPBI, sends email alerts, and tracks 72-hour compliance countdown | Python · JavaScript · CSS | Solo |
+| 💰 **[CashClock](https://github.com/anshul23102/cashclock)** | Full-stack AI financial dashboard for Indian SMEs — Holt-Winters forecasting & Claude AI for cash flow prediction and loan modelling | FastAPI · React · Tailwind · Anthropic AI | Solo |
+| 🛡️ **[BreachBridge](https://github.com/anshul23102/BreachBridge)** | Automated DPDP Act 2023 compliance engine — auto-classifies data breaches, generates PDF reports for DPBI, sends email alerts, and tracks 72-hour compliance countdown | Flask · React · SQLite · Framer Motion | Solo |
 | 🤖 **[AI Incident DB — India](https://anshul23102.github.io/ai-incident-db)** | Interactive state-wise database documenting AI-related harm incidents across India (2021–2025) — deepfakes, fraud, voice cloning, electoral manipulation, with D3.js map visualisations | HTML · JavaScript · D3.js | Solo |
 | 🧠 **[MindSync](https://github.com/anshul23102/MindSync)** | Screen time & focus management app — usage analytics, distraction blocking, cross-device sync, customizable focus sessions | Flutter · Dart · Firebase | Team of 3 |
 | 🚂 **[Railway Ticket Booking System](https://github.com/anshul23102/Railway-Ticket-Booking-System)** | Real-time web-based railway booking with optimized SQL queries, secure payments, and admin controls for trains & routes | PHP · MySQL · HTML | Team of 2 |
@@ -65,7 +66,8 @@
 | 🥇 Adobe India Hackathon 2025 | Top 5% — 4,000 / 80,000 teams |
 | 🌍 GSoC 2026 | PEcAn Benchmarking Pipeline (R) |
 | 🔀 prometheus-operator | Open source contribution — PR #8353 |
-| 🔬 Research @ IIIT Delhi |
+| 🔬 Research @ IIIT Delhi | AI Systems Platform |
+| 📊 B.Tech Project | AI Incident Database India — 28 states, 2021–2025 |
 | 🚀 Indian Space Science Olympiad | Qualified Stage 1 (Top 10% nationally) |
 
 ---
@@ -73,8 +75,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshul23102&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul23102&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshul23102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul23102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
