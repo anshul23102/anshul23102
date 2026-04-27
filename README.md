@@ -63,12 +63,11 @@
 
 | | |
 |---|---|
-| 🥇 Adobe India Hackathon 2025 | Top 5% — 4,000 / 80,000 teams |
 | 🌍 GSoC 2026 | PEcAn Benchmarking Pipeline (R) |
 | 🔀 prometheus-operator | Open source contribution — PR #8353 |
 | 🔬 Research @ IIIT Delhi | AI Systems Platform |
 | 📊 B.Tech Project | AI Incident Database India — 28 states, 2021–2025 |
-| 🚀 Indian Space Science Olympiad | Qualified Stage 1 (Top 10% nationally) |
+| 🚀 Indian Space Science Olympiad | Qualified Stage 1 (Top 1% nationally) |
 
 ---
 
