@@ -13,7 +13,7 @@
 - 🔬 **Undergraduate Researcher** — AI Systems Platform, IIIT Delhi.
 - 🌱 **GSoC 2026 Applicant** — Redesigning PEcAn's Benchmarking Pipeline (R · ggplot2 · testthat)
 - 🏆 **Top 5%** Adobe India Hackathon 2025 (4,000 / 80,000 teams)
-- 🤝 **Open Source Contributor** — prometheus-operator, PEcAn (2 merged PRs)
+- 🤝 **Open Source Contributor** — PEcAn (2 merged PRs), prometheus-operator
 - 📊 **B.Tech Project** — AI Incident Database India: mapping AI-related harm across 28 states (2021–2025)
 - 💻 Currently building: modular benchmarking framework for ecological model validation
 - 📫 Reach me at: **anshul23102@iiitd.ac.in**
