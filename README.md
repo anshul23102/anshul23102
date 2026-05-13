@@ -1,20 +1,52 @@
 <div align="center">
-  <img src="https://fontmeme.com/permalink/260402/c23b40b0.png" width="550"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Anshul%20Jain&fontSize=72&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=CS%20Undergrad%20%40%20IIIT%20Delhi%20%7C%20AI%20Systems%20%7C%20Open%20Source&descAlignY=58&descAlign=50&descSize=18&descColor=8b949e"/>
 </div>
 
-<h3 align="center">
-  CS Undergrad @ IIIT Delhi · Open Source Contributor · GSoC 2026 Applicant
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Undergraduate+Researcher+%F0%9F%94%AC;GSoC+2026+Applicant+%E2%80%94+PEcAn+Benchmarking+%F0%9F%8C%8D;Full-Stack+%26+AI+Systems+Builder+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%A4%9D;IIIT+Delhi+CS+%E2%80%9827+%F0%9F%8E%93" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshul23102&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/anshul23102?label=Followers&style=social" alt="GitHub Followers" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/anshul-jain-ajx17">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://anshulportfolio-tau.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:anshul23102@iiitd.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🔬 **Undergraduate Researcher** — AI Systems Platform, IIIT Delhi.
-- 🤝 **Open Source Contributor** — PEcAn, prometheus-operator
+- 🔬 **Undergraduate Researcher** — AI Systems Platform, IIIT Delhi
+- 🤝 **Open Source Contributor** — PEcAn (GSoC 2026), prometheus-operator ([PR #8353](https://github.com/prometheus-operator/prometheus-operator/pull/8353))
 - 📊 **B.Tech Project** — AI Incident Database India: mapping AI-related harm across 28 states (2021–2025)
-- 💻 Currently building: modular benchmarking framework for ecological model validation
-- 📫 Reach me at: **anshul23102@iiitd.ac.in**
+- 💻 **Currently building** — modular benchmarking framework for ecological model validation (R)
+- 🚀 **Indian Space Science Olympiad** — Stage 1 Qualifier (Top 1% nationally)
+- 📫 Reach me: **anshul23102@iiitd.ac.in**
+
+---
+
+### 🔧 Currently Working On
+
+```text
+🧪  PEcAn Benchmarking Framework    ████████░░░░░░░   [GSoC 2026] Modular ecological model validation in R
+🗺️   AI Incident DB India            ██████████░░░░░   [B.Tech]   28-state harm mapping with D3.js visualizations
+📦  prometheus-operator              ████░░░░░░░░░░░   [OSS]      Open source contributions & issue triage
+💰  CashClock                        ██████░░░░░░░░░   [Personal] AI financial dashboard for Indian SMEs
+```
 
 ---
 
@@ -43,42 +75,76 @@
 | Project | Description | Tech Stack | Team |
 |---|---|---|---|
 | 💰 **[CashClock](https://github.com/anshul23102/cashclock)** | Full-stack AI financial dashboard for Indian SMEs — Holt-Winters forecasting & Claude AI for cash flow prediction and loan modelling | FastAPI · React · Tailwind · Anthropic AI | Solo |
-| 🛡️ **[BreachBridge](https://github.com/anshul23102/BreachBridge)** | Automated DPDP Act 2023 compliance engine — auto-classifies data breaches, generates PDF reports for DPBI, sends email alerts, and tracks 72-hour compliance countdown | Flask · React · SQLite · Framer Motion | Solo |
-| 🤖 **[AI Incident DB — India](https://anshul23102.github.io/ai-incident-db)** | Interactive state-wise database documenting AI-related harm incidents across India (2021–2025) — deepfakes, fraud, voice cloning, electoral manipulation, with D3.js map visualisations | HTML · JavaScript · D3.js | Solo |
+| 🛡️ **[BreachBridge](https://github.com/anshul23102/BreachBridge)** | Automated DPDP Act 2023 compliance engine — auto-classifies data breaches, generates PDF reports for DPBI, sends email alerts, tracks 72-hour countdown | Flask · React · SQLite · Framer Motion | Solo |
+| 🤖 **[AI Incident DB — India](https://anshul23102.github.io/ai-incident-db)** | Interactive state-wise database documenting AI-related harm across India (2021–2025) — deepfakes, fraud, voice cloning, electoral manipulation, D3.js maps | HTML · JavaScript · D3.js | Solo |
 | 🧠 **[MindSync](https://github.com/anshul23102/MindSync)** | Screen time & focus management app — usage analytics, distraction blocking, cross-device sync, customizable focus sessions | Flutter · Dart · Firebase | Team of 3 |
-| 🚂 **[Railway Ticket Booking System](https://github.com/anshul23102/Railway-Ticket-Booking-System)** | Real-time web-based railway booking with optimized SQL queries, secure payments, and admin controls for trains & routes | PHP · MySQL · HTML | Team of 2 |
-| 🐦 **[Angry Birds](https://github.com/anshul23102/AngryBirdGUI)** | 3-level Angry Birds game with OOP design patterns, serialization for saves, JUnit testing, and static-to-dynamic GUI | Java · JavaFX · libGDX · Gradle | Team of 2 |
-| 🍔 **[ByteMe](https://github.com/anshul23102/ByteMe)** | Enhanced course registration system with feedback, TA roles & exception handling + upgraded food ordering GUI with file handling | Java · IntelliJ · JUnit | Solo |
-| 🎓 **[Course Registration System](https://github.com/anshul23102/CourseRegistrationSystem)** | Terminal-based university course registration system demonstrating OOP — encapsulation, inheritance, polymorphism, abstraction | Java · Gradle · Android CI | Solo |
 | 📄 **[Adobe 1A — PDF Outline Extractor](https://github.com/anshul23102/Adobe_1A)** | Rule-based PDF outline extractor detecting titles, H1/H2/H3 headings & page numbers via font clustering & heuristic merging | Python · PyMuPDF · scikit-learn | Team |
 | 🤖 **[Adobe 1B — Persona Document Intelligence](https://github.com/anshul23102/Adobe_1B)** | Extracts & prioritizes PDF sections based on user persona and job-to-be-done. Offline, CPU-only, <60s processing | Python · PyMuPDF | Team |
+| 🚂 **[Railway Ticket Booking System](https://github.com/anshul23102/Railway-Ticket-Booking-System)** | Real-time web-based railway booking with optimized SQL queries, secure payments, and admin controls for trains & routes | PHP · MySQL · HTML | Team of 2 |
+| 🐦 **[Angry Birds](https://github.com/anshul23102/AngryBirdGUI)** | 3-level Angry Birds game with OOP design patterns, serialization for game saves, JUnit testing, static-to-dynamic GUI | Java · JavaFX · libGDX · Gradle | Team of 2 |
+| 🍔 **[ByteMe](https://github.com/anshul23102/ByteMe)** | Enhanced course registration + food ordering GUI — feedback system, TA roles, exception handling, file handling | Java · IntelliJ · JUnit | Solo |
+| 🎓 **[Course Registration System](https://github.com/anshul23102/CourseRegistrationSystem)** | Terminal-based university course registration demonstrating core OOP — encapsulation, inheritance, polymorphism, abstraction | Java · Gradle · Android CI | Solo |
 | 💙 **[SahaYan — Donation App](https://www.figma.com)** | User-centered design project — requirement gathering, persona creation, design iterations & user testing | Figma | Team of 3 |
 | 🌐 **[Portfolio Website](https://anshulportfolio-tau.vercel.app)** | Animated personal portfolio with smooth page transitions, particle backgrounds & multi-page routing | React 18 · Framer Motion · Styled Components | Solo |
-| 🌸 **[N](https://github.com/anshul23102/N)** | — | HTML · CSS · JavaScript | Solo |
+| 🌸 **[N](https://github.com/anshul23102/N)** | Experimental web project | HTML · CSS · JavaScript | Solo |
 
 ---
 
-### 🏆 Highlights
+### 🏆 Highlights & Achievements
 
 | | |
 |---|---|
-| 🌍 GSoC 2026 | PEcAn Benchmarking Pipeline (R) |
-| 🔀 prometheus-operator | Open source contribution — PR #8353 |
-| 🔬 Research @ IIIT Delhi | AI Systems Platform |
-| 📊 B.Tech Project | AI Incident Database India — 28 states, 2021–2025 |
-| 🚀 Indian Space Science Olympiad | Qualified Stage 1 (Top 1% nationally) |
+| 🌍 **GSoC 2026** | PEcAn Benchmarking Pipeline (R) — modular ecological model validation |
+| 🔀 **prometheus-operator** | Open source contribution — [PR #8353](https://github.com/prometheus-operator/prometheus-operator/pull/8353) |
+| 🔬 **Research @ IIIT Delhi** | AI Systems Platform — undergraduate researcher |
+| 📊 **B.Tech Project** | AI Incident Database India — 28 states, 2021–2025 |
+| 🚀 **Space Science Olympiad** | Stage 1 Qualifier — Top 1% nationally |
+| 🏅 **GitHub Achievements** | Pair Extraordinaire ×2 · Pull Shark ×2 · Quickdraw · YOLO |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshul23102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul23102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshul23102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul23102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul23102&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshul23102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshul23102&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" width="95%"/>
+</div>
+
+---
+
+### 🌐 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anshul23102/anshul23102/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshul23102/anshul23102/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshul23102/anshul23102/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anshul23102/anshul23102/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -87,17 +153,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anshul-jain-ajx17)
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anshulportfolio-tau.vercel.app)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/anshul-jain-ajx17)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anshulportfolio-tau.vercel.app)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshul23102@iiitd.ac.in)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
 </div>
