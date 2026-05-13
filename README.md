@@ -30,11 +30,10 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔬 **Undergraduate Researcher** — AI Systems Platform, IIIT Delhi
-- 🤝 **Open Source Contributor** — PEcAn (GSoC 2026), prometheus-operator ([PR #8353](https://github.com/prometheus-operator/prometheus-operator/pull/8353))
-- 📊 **B.Tech Project** — AI Incident Database India: mapping AI-related harm across 28 states (2021–2025)
-- 💻 **Currently building** — modular benchmarking framework for ecological model validation (R)
-- 🚀 **Indian Space Science Olympiad** — Stage 1 Qualifier (Top 1% nationally)
+- 🔬 **Undergraduate Researcher** : AI Systems Platform, IIIT Delhi
+- 🤝 **Open Source Contributor** : PEcAn (GSoC 2026), prometheus-operator ([PR #8353](https://github.com/prometheus-operator/prometheus-operator/pull/8353))
+- 📊 **B.Tech Project** : AI Incident Database India: mapping AI-related harm across 28 states (2021–2025)
+- 💻 **Currently building** : modular benchmarking framework for ecological model validation (R)
 - 📫 Reach me: **anshul23102@iiitd.ac.in**
 
 ---
