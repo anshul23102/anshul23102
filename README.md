@@ -63,15 +63,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,r,js,ts)](https://skillicons.dev)
 
-```text
-Python          █████████████████░░░   85%  ⬡ Expert
-Java            ████████████████░░░░   80%  ⬡ Advanced
-JavaScript/TS   ███████████████░░░░░   75%  ⬡ Advanced
-C / C++         ████████████░░░░░░░░   60%  ⬡ Proficient
-R               ███████████░░░░░░░░░   55%  ⬡ Proficient
-Flutter / Dart  ██████████░░░░░░░░░░   50%  ⬡ Intermediate
-```
-
 **Frontend**
 
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,redux,tailwind,styledcomponents,flutter,figma,vite)](https://skillicons.dev)
@@ -106,7 +97,7 @@ Flutter / Dart  ██████████░░░░░░░░░░   5
 
 ---
 
-### 🏆 Highlights & Achievements
+### 🏆 Highlights
 
 | | |
 |---|---|
@@ -115,7 +106,6 @@ Flutter / Dart  ██████████░░░░░░░░░░   5
 | 🔬 **Research @ IIIT Delhi** | AI Systems Platform — undergraduate researcher |
 | 📊 **B.Tech Project** | AI Incident Database India — 28 states, 2021–2025 |
 | 🚀 **Space Science Olympiad** | Stage 1 Qualifier — Top 1% nationally |
-| 🏅 **GitHub Achievements** | Pair Extraordinaire ×2 · Pull Shark ×2 · Quickdraw · YOLO |
 
 ---
 
@@ -137,19 +127,6 @@ Flutter / Dart  ██████████░░░░░░░░░░   5
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-### 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1004](https://github.com/hushh-labs/hushh-research/pull/1004) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
-2. 💪 Opened PR [#1002](https://github.com/hushh-labs/hushh-research/pull/1002) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
-3. 🎉 Merged PR [#935](https://github.com/hushh-labs/hushh-research/pull/935) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
-4. 💪 Opened PR [#952](https://github.com/hushh-labs/hushh-research/pull/952) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
-5. 💪 Opened PR [#951](https://github.com/hushh-labs/hushh-research/pull/951) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
-6. 💪 Opened PR [#949](https://github.com/hushh-labs/hushh-research/pull/949) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
-<!--END_SECTION:activity-->
 
 ---
 
