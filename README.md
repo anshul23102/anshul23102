@@ -135,16 +135,6 @@
 
 ---
 
-### 🌆 GitHub Skyline
-
-<div align="center">
-
-[![2025 Skyline](https://img.shields.io/badge/View%20My%202025%20GitHub%20Skyline-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://skyline.github.com/anshul23102/2025)
-
-*A 3D city skyline built from my 2025 GitHub contributions — each building is a day of commits.*
-
-</div>
-
 ---
 
 ### 🤝 Connect with me
