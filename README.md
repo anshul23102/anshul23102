@@ -109,24 +109,9 @@
 
 ---
 
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anshul23102/anshul23102/main/github-metrics.svg" alt="GitHub Metrics" width="95%" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anshul23102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
-
----
-
-### ⏱️ WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -145,16 +130,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshul23102/anshul23102/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshul23102/anshul23102/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anshul23102/anshul23102/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-### 🟡 Pac-Man
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshul23102/anshul23102/pacman-output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshul23102/anshul23102/pacman-output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/anshul23102/anshul23102/pacman-output/pacman-contribution-graph-dark.svg" />
   </picture>
 </div>
 
