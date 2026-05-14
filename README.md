@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anshul23102/anshul23102/main/winter-is-coming.svg" alt="Winter is Coming" width="700"/>
+  <img src="https://raw.githubusercontent.com/anshul23102/anshul23102/main/winter-is-coming.svg" alt="Winter is Coming" width="900"/>
 </div>
 
 ---
