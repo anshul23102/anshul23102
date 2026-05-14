@@ -49,10 +49,8 @@
 
 ---
 
-### 💬 Dev Quote of the Day
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=42&pause=99999&color=A8C8E8&center=true&vCenter=true&width=700&height=90&lines=Winter+is+Coming" alt="Winter is Coming" />
 </div>
 
 ---
