@@ -1,0 +1,21 @@
+name: Pac-Man Animation
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: abozanona/pacman-contribution-graph@v1.2.5
+        with:
+          github-user-name: ${{ github.repository_owner }}
+          ghToken: ${{ secrets.GITHUB_TOKEN }}
+          gh-page-branch: pacman-output

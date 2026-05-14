@@ -49,11 +49,28 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+### 🛠️ Tech Stack & Proficiency
 
 **Programming Languages**
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,r,js,ts)](https://skillicons.dev)
+
+```text
+Python          █████████████████░░░   85%  ⬡ Expert
+Java            ████████████████░░░░   80%  ⬡ Advanced
+JavaScript/TS   ███████████████░░░░░   75%  ⬡ Advanced
+C / C++         ████████████░░░░░░░░   60%  ⬡ Proficient
+R               ███████████░░░░░░░░░   55%  ⬡ Proficient
+Flutter / Dart  ██████████░░░░░░░░░░   50%  ⬡ Intermediate
+```
 
 **Frontend**
 
@@ -79,8 +96,8 @@
 | 🧠 **[MindSync](https://github.com/anshul23102/MindSync)** | Screen time & focus management app — usage analytics, distraction blocking, cross-device sync, customizable focus sessions | Flutter · Dart · Firebase | Team of 3 |
 | 📄 **[Adobe 1A — PDF Outline Extractor](https://github.com/anshul23102/Adobe_1A)** | Rule-based PDF outline extractor detecting titles, H1/H2/H3 headings & page numbers via font clustering & heuristic merging | Python · PyMuPDF · scikit-learn | Team |
 | 🤖 **[Adobe 1B — Persona Document Intelligence](https://github.com/anshul23102/Adobe_1B)** | Extracts & prioritizes PDF sections based on user persona and job-to-be-done. Offline, CPU-only, <60s processing | Python · PyMuPDF | Team |
-| 🚂 **[Railway Ticket Booking System](https://github.com/anshul23102/Railway-Ticket-Booking-System)** | Real-time web-based railway booking with optimized SQL queries, secure payments, and admin controls for trains & routes | PHP · MySQL · HTML | Team of 2 |
-| 🐦 **[Angry Birds](https://github.com/anshul23102/AngryBirdGUI)** | 3-level Angry Birds game with OOP design patterns, serialization for game saves, JUnit testing, static-to-dynamic GUI | Java · JavaFX · libGDX · Gradle | Team of 2 |
+| 🚂 **[Railway Ticket Booking System](https://github.com/anshul23102/Railway-Ticket-Booking-System)** | Real-time web-based railway booking with optimized SQL queries, secure payments, and admin controls | PHP · MySQL · HTML | Team of 2 |
+| 🐦 **[Angry Birds](https://github.com/anshul23102/AngryBirdGUI)** | 3-level Angry Birds game with OOP design patterns, serialization for saves, JUnit testing, static-to-dynamic GUI | Java · JavaFX · libGDX · Gradle | Team of 2 |
 | 🍔 **[ByteMe](https://github.com/anshul23102/ByteMe)** | Enhanced course registration + food ordering GUI — feedback system, TA roles, exception handling, file handling | Java · IntelliJ · JUnit | Solo |
 | 🎓 **[Course Registration System](https://github.com/anshul23102/CourseRegistrationSystem)** | Terminal-based university course registration demonstrating core OOP — encapsulation, inheritance, polymorphism, abstraction | Java · Gradle · Android CI | Solo |
 | 💙 **[SahaYan — Donation App](https://www.figma.com)** | User-centered design project — requirement gathering, persona creation, design iterations & user testing | Figma | Team of 3 |
@@ -102,16 +119,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshul23102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul23102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul23102&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/anshul23102/anshul23102/main/github-metrics.svg" alt="GitHub Metrics" width="95%" />
 </div>
 
 <br/>
@@ -120,11 +131,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=anshul23102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshul23102&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" width="95%"/>
-</div>
+### ⏱️ WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 📝 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -144,6 +163,28 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshul23102/anshul23102/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anshul23102/anshul23102/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</div>
+
+### 🟡 Pac-Man
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshul23102/anshul23102/pacman-output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshul23102/anshul23102/pacman-output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/anshul23102/anshul23102/pacman-output/pacman-contribution-graph-dark.svg" />
+  </picture>
+</div>
+
+---
+
+### 🌆 GitHub Skyline
+
+<div align="center">
+
+[![2025 Skyline](https://img.shields.io/badge/View%20My%202025%20GitHub%20Skyline-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://skyline.github.com/anshul23102/2025)
+
+*A 3D city skyline built from my 2025 GitHub contributions — each building is a day of commits.*
+
 </div>
 
 ---
