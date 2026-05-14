@@ -143,6 +143,12 @@ Flutter / Dart  ██████████░░░░░░░░░░   5
 ### 📝 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1004](https://github.com/hushh-labs/hushh-research/pull/1004) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
+2. 💪 Opened PR [#1002](https://github.com/hushh-labs/hushh-research/pull/1002) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
+3. 🎉 Merged PR [#935](https://github.com/hushh-labs/hushh-research/pull/935) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
+4. 💪 Opened PR [#952](https://github.com/hushh-labs/hushh-research/pull/952) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
+5. 💪 Opened PR [#951](https://github.com/hushh-labs/hushh-research/pull/951) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
+6. 💪 Opened PR [#949](https://github.com/hushh-labs/hushh-research/pull/949) in [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research)
 <!--END_SECTION:activity-->
 
 ---
