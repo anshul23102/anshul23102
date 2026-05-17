@@ -41,10 +41,10 @@
 ### 🔧 Currently Working On
 
 ```text
-🧪  PEcAn Benchmarking Framework    ████████░░░░░░░   [GSoC 2026] Modular ecological model validation in R
-🗺️   AI Incident DB India            ██████████░░░░░   [B.Tech]   28-state harm mapping with D3.js visualizations
-📦  prometheus-operator              ████░░░░░░░░░░░   [OSS]      Open source contributions & issue triage
-💰  CashClock                        ██████░░░░░░░░░   [Personal] AI financial dashboard for Indian SMEs
+🏢  hushh-research                   ██████████████░   [Work]     Personal AI experiences, consent flows & macOS agent systems @ Hushh Labs
+🌿  PEcAn Benchmarking Framework     ████████░░░░░░░   [GSoC 2026] Modular ecological model validation pipeline in R
+🎯  AI CareerForge                   ███████░░░░░░░░   [Personal] Interview readiness assessment platform (Next.js + AI)
+🗺️   AI Incident DB India            ██████░░░░░░░░░   [B.Tech]   28-state AI harm mapping with D3.js visualizations
 ```
 
 ---
