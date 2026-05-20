@@ -32,8 +32,8 @@
 
 - 🔬 **Undergraduate Researcher** : AI Systems Platform, IIIT Delhi
 - 🤝 **Open Source Contributor** : GSSoC 2026 (active), PEcAn · hushh-labs · Dev-Card · devtrack · Vector-social-media
-- 🌱 **GSoC 2026** : PEcAn benchmarking pipeline — modular ecological model validation in R
-- 📊 **B.Tech Project** : AI Incident Database India — mapping AI-related harm across 28 states (2021–2025)
+- 🌱 **GSoC 2026** : PEcAn benchmarking pipeline : modular ecological model validation in R
+- 📊 **B.Tech Project** : AI Incident Database India : mapping AI-related harm across 28 states (2021–2025)
 - 🔐 **Security researcher** : OAuth state forgery, rate-limit bypass, auth bypass CVEs across GSSoC repos
 - 📫 Reach me: **anshul23102@iiitd.ac.in**
 
@@ -42,7 +42,7 @@
 ### 🔧 Currently Working On
 
 ```text
-🚀  GSSoC 2026 — Active              ███████████████   [Live]     Security fixes, feature PRs across 4 repos (27 May to 14 Aug)
+🚀  GSSoC 2026 : Active              ███████████████   [Live]     Security fixes, feature PRs across 4 repos (27 May to 14 Aug)
 🏢  hushh-research                   █████████████░░   [Work]     Personal AI, consent flows & macOS agent systems @ Hushh Labs
 🌿  PEcAn Benchmarking              ████████░░░░░░░   [GSoC 2026] Modular ecological model validation pipeline in R
 🗺️   AI Incident DB India            ██████░░░░░░░░░   [B.Tech]   28-state AI harm mapping with D3.js visualizations
@@ -80,18 +80,18 @@
 
 | Project | Description | Tech Stack | Team |
 |---|---|---|---|
-| 🎯 **[AI CareerForge](https://github.com/anshul23102/ai-careerforge)** | Interview readiness assessment platform — fetches real GitHub and portfolio data, scores readiness across DSA, system design and behavioural rounds | Next.js · TypeScript · Tailwind | Solo |
-| 💰 **[CashClock](https://github.com/anshul23102/cashclock)** | Full-stack financial dashboard for Indian SMEs — Holt-Winters forecasting for cash flow prediction and loan modelling | FastAPI · React · Tailwind · Anthropic AI | Solo |
-| 🛡️ **[BreachBridge](https://github.com/anshul23102/BreachBridge)** | Automated DPDP Act 2023 compliance engine — auto-classifies data breaches, generates PDF reports for DPBI, sends email alerts, tracks 72-hour countdown | Flask · React · SQLite · Framer Motion | Solo |
-| 🤖 **[AI Incident DB — India](https://anshul23102.github.io/ai-incident-db)** | Interactive state-wise database documenting AI-related harm across India (2021–2025) — deepfakes, fraud, voice cloning, electoral manipulation, D3.js maps | HTML · JavaScript · D3.js | Solo |
-| 🧠 **[MindSync](https://github.com/anshul23102/MindSync)** | Screen time & focus management app — usage analytics, distraction blocking, cross-device sync, customizable focus sessions | Flutter · Dart · Firebase | Team of 3 |
-| 📄 **[Adobe 1A — PDF Outline Extractor](https://github.com/anshul23102/Adobe_1A)** | Rule-based PDF outline extractor detecting titles, H1/H2/H3 headings & page numbers via font clustering & heuristic merging | Python · PyMuPDF · scikit-learn | Team |
-| 🤖 **[Adobe 1B — Persona Document Intelligence](https://github.com/anshul23102/Adobe_1B)** | Extracts & prioritizes PDF sections based on user persona and job-to-be-done. Offline, CPU-only, <60s processing | Python · PyMuPDF | Team |
+| 🎯 **[AI CareerForge](https://github.com/anshul23102/ai-careerforge)** | Interview readiness assessment platform : fetches real GitHub and portfolio data, scores readiness across DSA, system design and behavioural rounds | Next.js · TypeScript · Tailwind | Solo |
+| 💰 **[CashClock](https://github.com/anshul23102/cashclock)** | Full-stack financial dashboard for Indian SMEs : Holt-Winters forecasting for cash flow prediction and loan modelling | FastAPI · React · Tailwind · Anthropic SDK | Solo |
+| 🛡️ **[BreachBridge](https://github.com/anshul23102/BreachBridge)** | Automated DPDP Act 2023 compliance engine : auto-classifies data breaches, generates PDF reports for DPBI, sends email alerts, tracks 72-hour countdown | Flask · React · SQLite · Framer Motion | Solo |
+| 🤖 **[AI Incident DB : India](https://anshul23102.github.io/ai-incident-db)** | Interactive state-wise database documenting AI-related harm across India (2021–2025) : deepfakes, fraud, voice cloning, electoral manipulation, D3.js maps | HTML · JavaScript · D3.js | Solo |
+| 🧠 **[MindSync](https://github.com/anshul23102/MindSync)** | Screen time & focus management app : usage analytics, distraction blocking, cross-device sync, customizable focus sessions | Flutter · Dart · Firebase | Team of 3 |
+| 📄 **[Adobe 1A : PDF Outline Extractor](https://github.com/anshul23102/Adobe_1A)** | Rule-based PDF outline extractor detecting titles, H1/H2/H3 headings & page numbers via font clustering & heuristic merging | Python · PyMuPDF · scikit-learn | Team |
+| 🤖 **[Adobe 1B : Persona Document Intelligence](https://github.com/anshul23102/Adobe_1B)** | Extracts & prioritizes PDF sections based on user persona and job-to-be-done. Offline, CPU-only, <60s processing | Python · PyMuPDF | Team |
 | 🚂 **[Railway Ticket Booking System](https://github.com/anshul23102/Railway-Ticket-Booking-System)** | Real-time web-based railway booking with optimized SQL queries, secure payments, and admin controls | PHP · MySQL · HTML | Team of 2 |
 | 🐦 **[Angry Birds](https://github.com/anshul23102/AngryBirdGUI)** | 3-level Angry Birds game with OOP design patterns, serialization for saves, JUnit testing, static-to-dynamic GUI | Java · JavaFX · libGDX · Gradle | Team of 2 |
-| 🍔 **[ByteMe](https://github.com/anshul23102/ByteMe)** | Enhanced course registration + food ordering GUI — feedback system, TA roles, exception handling, file handling | Java · IntelliJ · JUnit | Solo |
-| 🎓 **[Course Registration System](https://github.com/anshul23102/CourseRegistrationSystem)** | Terminal-based university course registration demonstrating core OOP — encapsulation, inheritance, polymorphism, abstraction | Java · Gradle · Android CI | Solo |
-| 💙 **[SahaYan — Donation App](https://www.figma.com)** | User-centered design project — requirement gathering, persona creation, design iterations & user testing | Figma | Team of 3 |
+| 🍔 **[ByteMe](https://github.com/anshul23102/ByteMe)** | Enhanced course registration + food ordering GUI : feedback system, TA roles, exception handling, file handling | Java · IntelliJ · JUnit | Solo |
+| 🎓 **[Course Registration System](https://github.com/anshul23102/CourseRegistrationSystem)** | Terminal-based university course registration demonstrating core OOP : encapsulation, inheritance, polymorphism, abstraction | Java · Gradle · Android CI | Solo |
+| 💙 **[SahaYan : Donation App](https://www.figma.com)** | User-centered design project : requirement gathering, persona creation, design iterations & user testing | Figma | Team of 3 |
 | 🌐 **[Portfolio Website](https://anshulportfolio-tau.vercel.app)** | Animated personal portfolio with smooth page transitions, particle backgrounds & multi-page routing | React 18 · Framer Motion · Styled Components | Solo |
 | 🌸 **[N](https://github.com/anshul23102/N)** | Experimental web project | HTML · CSS · JavaScript | Solo |
 
@@ -101,11 +101,11 @@
 
 | | |
 |---|---|
-| 🎉 **GSSoC 2026** | Selected out of 35,000+ applicants — Open Source + AI/Agents tracks |
-| 🌍 **GSoC 2026** | PEcAn Benchmarking Pipeline (R) — modular ecological model validation |
-| 🔬 **Research @ IIIT Delhi** | AI Systems Platform — undergraduate researcher |
-| 📊 **B.Tech Project** | AI Incident Database India — 28 states, 2021–2025 |
-| 🚀 **Space Science Olympiad** | Stage 1 Qualifier — Top 1% nationally |
+| 🎉 **GSSoC 2026** | Selected out of 35,000+ applicants : Open Source + AI/Agents tracks |
+| 🌍 **GSoC 2026** | PEcAn Benchmarking Pipeline (R) : modular ecological model validation |
+| 🔬 **Research @ IIIT Delhi** | AI Systems Platform : undergraduate researcher |
+| 📊 **B.Tech Project** | AI Incident Database India : 28 states, 2021–2025 |
+| 🚀 **Space Science Olympiad** | Stage 1 Qualifier : Top 1% nationally |
 | 🏅 **GitHub Achievements** | Pair Extraordinaire ×2 · Pull Shark ×2 · Quickdraw · YOLO |
 
 ---
