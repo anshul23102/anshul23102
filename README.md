@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Undergraduate+Researcher+%F0%9F%94%AC;GSoC+2026+%E2%80%94+PEcAn+Benchmarking+%F0%9F%8C%8D;Full-Stack+%26+AI+Systems+Builder+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%A4%9D;IIIT+Delhi+CS+%E2%80%9827+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Undergraduate+Researcher+%F0%9F%94%AC;GSoC+2026+%E2%80%94+PEcAn+Benchmarking+%F0%9F%8C%8D;GSSoC+2026+Contributor+%F0%9F%9A%80;Security+Bug+Hunter+%F0%9F%94%90;Full-Stack+%26+AI+Systems+Builder+%F0%9F%A4%96;IIIT+Delhi+CS+%E2%80%9827+%F0%9F%8E%93" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -31,9 +31,10 @@
 ### 🙋‍♂️ About Me
 
 - 🔬 **Undergraduate Researcher** : AI Systems Platform, IIIT Delhi
-- 🤝 **Open Source Contributor** : PEcAn (GSoC 2026), prometheus-operator ([PR #8353](https://github.com/prometheus-operator/prometheus-operator/pull/8353))
-- 📊 **B.Tech Project** : AI Incident Database India: mapping AI-related harm across 28 states (2021–2025)
-- 💻 **Currently building** : modular benchmarking framework for ecological model validation (R)
+- 🤝 **Open Source Contributor** : GSSoC 2026 (active), PEcAn · hushh-labs · Dev-Card · devtrack · Vector-social-media
+- 🌱 **GSoC 2026** : PEcAn benchmarking pipeline — modular ecological model validation in R
+- 📊 **B.Tech Project** : AI Incident Database India — mapping AI-related harm across 28 states (2021–2025)
+- 🔐 **Security researcher** : OAuth state forgery, rate-limit bypass, auth bypass CVEs across GSSoC repos
 - 📫 Reach me: **anshul23102@iiitd.ac.in**
 
 ---
@@ -41,9 +42,9 @@
 ### 🔧 Currently Working On
 
 ```text
-🏢  hushh-research                   ██████████████░   [Work]     Personal AI experiences, consent flows & macOS agent systems @ Hushh Labs
-🌿  PEcAn Benchmarking Framework     ████████░░░░░░░   [GSoC 2026] Modular ecological model validation pipeline in R
-🎯  AI CareerForge                   ███████░░░░░░░░   [Personal] Interview readiness assessment platform (Next.js + AI)
+🚀  GSSoC 2026 — Active              ███████████████   [Live]     Security fixes, feature PRs across 4 repos (27 May to 14 Aug)
+🏢  hushh-research                   █████████████░░   [Work]     Personal AI, consent flows & macOS agent systems @ Hushh Labs
+🌿  PEcAn Benchmarking              ████████░░░░░░░   [GSoC 2026] Modular ecological model validation pipeline in R
 🗺️   AI Incident DB India            ██████░░░░░░░░░   [B.Tech]   28-state AI harm mapping with D3.js visualizations
 ```
 
@@ -79,7 +80,8 @@
 
 | Project | Description | Tech Stack | Team |
 |---|---|---|---|
-| 💰 **[CashClock](https://github.com/anshul23102/cashclock)** | Full-stack AI financial dashboard for Indian SMEs — Holt-Winters forecasting & Claude AI for cash flow prediction and loan modelling | FastAPI · React · Tailwind · Anthropic AI | Solo |
+| 🎯 **[AI CareerForge](https://github.com/anshul23102/ai-careerforge)** | Interview readiness assessment platform — fetches real GitHub and portfolio data, scores readiness across DSA, system design and behavioural rounds | Next.js · TypeScript · Tailwind | Solo |
+| 💰 **[CashClock](https://github.com/anshul23102/cashclock)** | Full-stack financial dashboard for Indian SMEs — Holt-Winters forecasting for cash flow prediction and loan modelling | FastAPI · React · Tailwind · Anthropic AI | Solo |
 | 🛡️ **[BreachBridge](https://github.com/anshul23102/BreachBridge)** | Automated DPDP Act 2023 compliance engine — auto-classifies data breaches, generates PDF reports for DPBI, sends email alerts, tracks 72-hour countdown | Flask · React · SQLite · Framer Motion | Solo |
 | 🤖 **[AI Incident DB — India](https://anshul23102.github.io/ai-incident-db)** | Interactive state-wise database documenting AI-related harm across India (2021–2025) — deepfakes, fraud, voice cloning, electoral manipulation, D3.js maps | HTML · JavaScript · D3.js | Solo |
 | 🧠 **[MindSync](https://github.com/anshul23102/MindSync)** | Screen time & focus management app — usage analytics, distraction blocking, cross-device sync, customizable focus sessions | Flutter · Dart · Firebase | Team of 3 |
@@ -99,11 +101,28 @@
 
 | | |
 |---|---|
+| 🎉 **GSSoC 2026** | Selected out of 35,000+ applicants — Open Source + AI/Agents tracks |
 | 🌍 **GSoC 2026** | PEcAn Benchmarking Pipeline (R) — modular ecological model validation |
-| 🔀 **prometheus-operator** | Open source contribution — [PR #8353](https://github.com/prometheus-operator/prometheus-operator/pull/8353) |
 | 🔬 **Research @ IIIT Delhi** | AI Systems Platform — undergraduate researcher |
 | 📊 **B.Tech Project** | AI Incident Database India — 28 states, 2021–2025 |
 | 🚀 **Space Science Olympiad** | Stage 1 Qualifier — Top 1% nationally |
+| 🏅 **GitHub Achievements** | Pair Extraordinaire ×2 · Pull Shark ×2 · Quickdraw · YOLO |
+
+---
+
+### 🌍 Open Source Footprint
+
+<div align="center">
+
+| Repository | Domain | Merged PRs | Status |
+|---|---|---|---|
+| 🌿 [PecanProject/pecan](https://github.com/PecanProject/pecan) | Ecological Bioinformatics (R) | 8+ | GSoC 2026 |
+| 🏢 [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research) | Personal AI + Agent Systems | 15+ | Active |
+| 🎯 [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) | Dev Productivity Platform | 5 | GSSoC 2026 |
+| 📱 [Shivayan09/Vector-social-media](https://github.com/Shivayan09/Vector-social-media) | Social Media Platform | 4+ | GSSoC 2026 |
+| 🃏 [Dev-Card/DevCard](https://github.com/Dev-Card/DevCard) | Developer Cards | 1 (security) | GSSoC 2026 |
+
+</div>
 
 ---
 
@@ -118,8 +137,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/anshul23102/anshul23102/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
 </div>
-
----
 
 ---
 
