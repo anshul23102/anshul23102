@@ -61,7 +61,7 @@ Screens prompts for injection, jailbreaks, spoofing and exfiltration, then redac
 
 <sub>Python · FastAPI · WebSockets · GitHub Models (GPT-4o-mini)</sub>
 
-[`Repo`](https://github.com/anshul23102/agentshield) [`Live demo`](https://agentshield-three.vercel.app) 
+[`Repo`](https://github.com/anshul23102/agentshield) 
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Two-agent Gemini pipeline on Google ADK answering one question: is it safe right
 
 <sub>Python · FastAPI · Google ADK · Gemini 2.5 Flash · BigQuery ML · NVIDIA RAPIDS</sub>
 
-[`Repo`](https://github.com/anshul23102/vayusense) [`Live demo`](https://vayusense-663068003180.us-central1.run.app) 
+[`Repo`](https://github.com/anshul23102/vayusense) 
 
 </td>
 <td width="50%" valign="top">
@@ -91,7 +91,7 @@ Fuses GST, UPI, Account Aggregator, EPFO and utility-bill data into an explainab
 
 <sub>Python · FastAPI · ML · Groq Llama 3.3 · Docker</sub>
 
-[`Live product`](https://saarthiscore.onrender.com) [`Demo video`](https://youtu.be/qUdJ3PsUiBk) 
+
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ Scores your profile across 4 dimensions with real GitHub and portfolio data, the
 
 <sub>Next.js 16 · TypeScript · Tailwind v4 · Framer Motion · Groq</sub>
 
-[`Repo`](https://github.com/anshul23102/ai-careerforge) [`Live demo`](https://ai-careerforge.vercel.app) 
+[`Repo`](https://github.com/anshul23102/ai-careerforge) 
 
 </td>
 <td width="50%" valign="top">
