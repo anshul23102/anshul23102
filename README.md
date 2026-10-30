@@ -188,17 +188,18 @@ A self-hosted MCP server (OAuth 2.1 + PKCE) that tells a household the day a pro
 
 | Project | Description | Tech Stack | Team |
 |---|---|---|---|
-| 🎯 **[AI CareerForge](https://github.com/anshul23102/ai-careerforge)** | Interview readiness assessment platform : fetches real GitHub and portfolio data, scores readiness across DSA, system design and behavioural rounds | Next.js · TypeScript · Tailwind | Solo |
-| 💰 **[CashClock](https://github.com/anshul23102/cashclock)** | Full-stack financial dashboard for Indian SMEs : Holt-Winters forecasting for cash flow prediction and loan modelling | FastAPI · React · Tailwind · Anthropic SDK | Solo |
-| 🛡️ **[BreachBridge](https://github.com/anshul23102/BreachBridge)** | Automated DPDP Act 2023 compliance engine : auto-classifies data breaches, generates PDF reports for DPBI, sends email alerts, tracks 72-hour countdown | Flask · React · SQLite · Framer Motion | Solo |
+| 🌍 **[ARGUS : Energy Supply Chain Resilience](https://github.com/anshul23102/argus-energy-resilience)** | Neuro-symbolic war-room for import-dependent economies : live disruption risk per supply corridor, cascade simulation through India's refining system and an executable procurement response in under 10s. LLMs only perceive and narrate, never do the math | FastAPI · Next.js · deck.gl · Gemini · Groq | Solo |
+| 🏅 **[Redrob Candidate Ranker](https://github.com/anshul23102/redrob-candidate-ranker)** | Consensus-gated, fraud-hardened, explainable ranker : 100K profiles in 12s on CPU, fully offline, with a plain-language reason for every candidate. India Runs Track 1 | Python · MiniLM embeddings | Solo |
+| 💰 **CashClock** | Full-stack financial dashboard for Indian SMEs : Holt-Winters forecasting for cash flow prediction and loan modelling | FastAPI · React · Tailwind · Anthropic SDK | Solo |
+| 🛡️ **BreachBridge** | Automated DPDP Act 2023 compliance engine : auto-classifies data breaches, generates PDF reports for DPBI, sends email alerts, tracks 72-hour countdown | Flask · React · SQLite · Framer Motion | Solo |
 | 🤖 **[AI Incident DB : India](https://anshul23102.github.io/ai-incident-db)** | Interactive state-wise database documenting AI-related harm across India (2021–2025) : deepfakes, fraud, voice cloning, electoral manipulation, D3.js maps | HTML · JavaScript · D3.js | Solo |
 | 🧠 **[MindSync](https://github.com/anshul23102/MindSync)** | Screen time & focus management app : usage analytics, distraction blocking, cross-device sync, customizable focus sessions | Flutter · Dart · Firebase | Team of 3 |
-| 📄 **[Adobe 1A : PDF Outline Extractor](https://github.com/anshul23102/Adobe_1A)** | Rule-based PDF outline extractor detecting titles, H1/H2/H3 headings & page numbers via font clustering & heuristic merging | Python · PyMuPDF · scikit-learn | Team |
-| 🤖 **[Adobe 1B : Persona Document Intelligence](https://github.com/anshul23102/Adobe_1B)** | Extracts & prioritizes PDF sections based on user persona and job-to-be-done. Offline, CPU-only, <60s processing | Python · PyMuPDF | Team |
+| 📄 **Adobe 1A : PDF Outline Extractor** | Rule-based PDF outline extractor detecting titles, H1/H2/H3 headings & page numbers via font clustering & heuristic merging | Python · PyMuPDF · scikit-learn | Team |
+| 🤖 **Adobe 1B : Persona Document Intelligence** | Extracts & prioritizes PDF sections based on user persona and job-to-be-done. Offline, CPU-only, <60s processing | Python · PyMuPDF | Team |
 | 🚂 **[Railway Ticket Booking System](https://github.com/anshul23102/Railway-Ticket-Booking-System)** | Real-time web-based railway booking with optimized SQL queries, secure payments, and admin controls | PHP · MySQL · HTML | Team of 2 |
-| 🐦 **[Angry Birds](https://github.com/anshul23102/AngryBirdGUI)** | 3-level Angry Birds game with OOP design patterns, serialization for saves, JUnit testing, static-to-dynamic GUI | Java · JavaFX · libGDX · Gradle | Team of 2 |
-| 🍔 **[ByteMe](https://github.com/anshul23102/ByteMe)** | Enhanced course registration + food ordering GUI : feedback system, TA roles, exception handling, file handling | Java · IntelliJ · JUnit | Solo |
-| 🎓 **[Course Registration System](https://github.com/anshul23102/CourseRegistrationSystem)** | Terminal-based university course registration demonstrating core OOP : encapsulation, inheritance, polymorphism, abstraction | Java · Gradle · Android CI | Solo |
+| 🐦 **Angry Birds** | 3-level Angry Birds game with OOP design patterns, serialization for saves, JUnit testing, static-to-dynamic GUI | Java · JavaFX · libGDX · Gradle | Team of 2 |
+| 🍔 **ByteMe** | Enhanced course registration + food ordering GUI : feedback system, TA roles, exception handling, file handling | Java · IntelliJ · JUnit | Solo |
+| 🎓 **Course Registration System** | Terminal-based university course registration demonstrating core OOP : encapsulation, inheritance, polymorphism, abstraction | Java · Gradle · Android CI | Solo |
 | 💙 **[SahaYan : Donation App](https://www.figma.com)** | User-centered design project : requirement gathering, persona creation, design iterations & user testing | Figma | Team of 3 |
 
 ---
