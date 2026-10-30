@@ -28,6 +28,114 @@
 
 ---
 
+### 🌟 Flagship Projects
+
+<div align="center">
+  <sub>Hackathon-built, shipped, tested and deployed. The work I am proudest of.</sub>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Sentinel
+<sub>🏆 Elite Coders Open Source Hackathon 2026</sub>
+
+**Catches silent API failures before your users do.**
+
+Real-time endpoint monitoring with Z-score anomaly detection on a 60s sliding window, cascade-failure root-cause chains and a streaming Groq AI assistant over a live service-dependency graph. Ships with a Python SDK for FastAPI and Flask.
+
+<sub>FastAPI · React · PostgreSQL · Redis · WebSockets · Groq</sub>
+
+[`Repo`](https://github.com/anshul23102/sentinel) [`SDK`](https://github.com/anshul23102/sentinel-sdk) 
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 AgentShield
+<sub>🏆 Microsoft Build AI 2026 · Security in the Agentic Future</sub>
+
+**Bidirectional security middleware for AI agents.**
+
+Screens prompts for injection, jailbreaks, spoofing and exfiltration, then redacts secrets and PII from responses. Session memory, trust scoring (allow / warn / block), a live dashboard and a one-line Python SDK. Catches 90%+ of attacks with patterns alone.
+
+<sub>Python · FastAPI · WebSockets · GitHub Models (GPT-4o-mini)</sub>
+
+[`Repo`](https://github.com/anshul23102/agentshield) [`Live demo`](https://agentshield-three.vercel.app) 
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌫️ VayuSense
+<sub>🏆 Gen AI Academy APAC 2026 · Elite Club</sub>
+
+**AI decision intelligence for the air 36 Indian cities breathe.**
+
+Two-agent Gemini pipeline on Google ADK answering one question: is it safe right now? Forecast Bench, BigQuery ML ARIMA_PLUS, GPU-accelerated cuDF processing, cigarette-equivalent impact and an early-warning system. 112 tests passing, deployed on Cloud Run.
+
+<sub>Python · FastAPI · Google ADK · Gemini 2.5 Flash · BigQuery ML · NVIDIA RAPIDS</sub>
+
+[`Repo`](https://github.com/anshul23102/vayusense) [`Live demo`](https://vayusense-663068003180.us-central1.run.app) 
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 SaarthiScore
+<sub>🏆 IDBI Innovate 2026 · Track 03 · Team BLOODWYRM</sub>
+
+**Financial health cards for credit-invisible MSMEs.**
+
+Fuses GST, UPI, Account Aggregator, EPFO and utility-bill data into an explainable 5-dimension score, with counterparty contagion risk, a legal-standing gate and bilingual (English / Hindi) Groq narration. Built to sit inside a real bank lending stack.
+
+<sub>Python · FastAPI · ML · Groq Llama 3.3 · Docker</sub>
+
+[`Live product`](https://saarthiscore.onrender.com) [`Demo video`](https://youtu.be/qUdJ3PsUiBk) 
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 AI CareerForge
+<sub>⚡ Shipped on Vercel</sub>
+
+**Know if you are interview-ready in under 2 minutes.**
+
+Scores your profile across 4 dimensions with real GitHub and portfolio data, then returns radar charts, strengths and a week-by-week action plan, plus a shareable PNG score card. Powered by Groq.
+
+<sub>Next.js 16 · TypeScript · Tailwind v4 · Framer Motion · Groq</sub>
+
+[`Repo`](https://github.com/anshul23102/ai-careerforge) [`Live demo`](https://ai-careerforge.vercel.app) 
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Hearth
+<sub>🏆 Amazon Build, Ship, Shape Hackathon · Alexa+ track</sub>
+
+**Recall alerts and safe reordering for Alexa+.**
+
+A self-hosted MCP server (OAuth 2.1 + PKCE) that tells a household the day a product they own is recalled, and never spends money without an explicit, undoable yes. Unforgeable approval codes, hash-chained audit log, 142 tests, Claude on Amazon Bedrock.
+
+<sub>TypeScript · MCP · OAuth 2.1 · SQLite · Amazon Bedrock</sub>
+
+[`Repo`](https://github.com/anshul23102/hearth-alexa-mcp) 
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Hackathons-6+-58A6FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Live_Deployments-4-3FB950?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Tests_Passing-250+-F78166?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Stack-AI_·_Security_·_Cloud-A371F7?style=for-the-badge&labelColor=0d1117" />
+</div>
+
+---
+
 ### 🙋‍♂️ About Me
 
 - 🔬 **Undergraduate Researcher** : AI Systems Platform, IIIT Delhi
@@ -76,7 +184,7 @@
 
 ---
 
-### 🚀 Projects
+### 🧪 More Projects
 
 | Project | Description | Tech Stack | Team |
 |---|---|---|---|
@@ -92,8 +200,6 @@
 | 🍔 **[ByteMe](https://github.com/anshul23102/ByteMe)** | Enhanced course registration + food ordering GUI : feedback system, TA roles, exception handling, file handling | Java · IntelliJ · JUnit | Solo |
 | 🎓 **[Course Registration System](https://github.com/anshul23102/CourseRegistrationSystem)** | Terminal-based university course registration demonstrating core OOP : encapsulation, inheritance, polymorphism, abstraction | Java · Gradle · Android CI | Solo |
 | 💙 **[SahaYan : Donation App](https://www.figma.com)** | User-centered design project : requirement gathering, persona creation, design iterations & user testing | Figma | Team of 3 |
-| 🌐 **[Portfolio Website](https://anshulportfolio-tau.vercel.app)** | Animated personal portfolio with smooth page transitions, particle backgrounds & multi-page routing | React 18 · Framer Motion · Styled Components | Solo |
-| 🌸 **[N](https://github.com/anshul23102/N)** | Experimental web project | HTML · CSS · JavaScript | Solo |
 
 ---
 
@@ -105,6 +211,10 @@
 | 🌍 **GSoC 2026** | PEcAn Benchmarking Pipeline (R) : modular ecological model validation |
 | 🔬 **Research @ IIIT Delhi** | AI Systems Platform : undergraduate researcher |
 | 📊 **B.Tech Project** | AI Incident Database India : 28 states, 2021–2025 |
+| ☁️ **Gen AI Academy APAC 2026** | Google Cloud x Hack2skill, Cohort 2: **Elite Club** member (Sept 2026) for exceptional performance, plus course completion (Jul 2026) |
+| 🏁 **Hackathons 2026** | Elite Coders OSS · Microsoft Build AI · IDBI Innovate (Track 03) · Amazon Build, Ship, Shape (Alexa+) · India Runs (Track 1) |
+| 🎨 **Adobe India Hackathon** | Round 2 (Build and Connect) participant with Team Friday Ops |
+| 💡 **Samsung Solve for Tomorrow 2026** | Certificate of Participation for applying Design Thinking |
 | 🚀 **Space Science Olympiad** | Stage 1 Qualifier : Top 1% nationally |
 | 🏅 **GitHub Achievements** | Pair Extraordinaire ×2 · Pull Shark ×2 · Quickdraw · YOLO |
 
